@@ -8,3 +8,4 @@ to-do list:
 6. if doing #5, disregard header of #1
 7. add all relevant info to website
 8. i wonder if we can just be lazy and use gsites if we do this again
+9. add language settings
