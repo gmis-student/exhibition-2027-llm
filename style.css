@@ -36,12 +36,12 @@ footer {
     font-size: 7px;
 }
 
-b {
+p {
     color: #B366A4
     text-decoration: none;
 }
 
-b:active, b:hover {
+p:active, p:hover {
     font-style: italic;
 }
 
