@@ -4,8 +4,9 @@ body {
     text-align: center;
     text-wrap: wrap;
     font-family: "SN Pro", sans-serif;
+    background:
+            linear-gradient(rgba(255,255,255,.5),rgba(255,255,255,.5)),repeating-linear-gradient(0deg,transparent 0 21px,rgba(133,184,105,.28) 22px),repeating-linear-gradient(90deg,transparent 0 21px,rgba(133,184,105,.28) 22px),#f9fff0;
     
-    color: #242590;
 }
 
 ul, ol {
