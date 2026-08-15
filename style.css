@@ -1,1 +1,52 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-wrap: wrap;
+    font-family: "SN Pro", sans-serif;
+    background-color: #FFFFFF;
+    color: #242590;
+}
 
+ul, ol {
+    text-align: left;
+}
+
+#links {
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.box {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    padding: 15px;
+    background-color: #B4CBDB;
+    height: auto;
+    width: 50%;
+    max-width: 50%;
+    border: 4px solid #242590;
+}
+
+footer {
+    font-size: 7px;
+}
+
+b {
+    color: #4E4BAB
+    text-decoration: none;
+}
+
+b:active, b:hover {
+    font-style: italic;
+}
+
+a {
+    color: #4E4BAB;
+    text-decoration: none;
+}
+
+a:active, a:hover {
+    font-style: italic;
+}
